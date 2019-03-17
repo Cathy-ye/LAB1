@@ -1,2 +1,1 @@
 # LAB1
-MySQL LAB1 for TTT
